@@ -1,1 +1,1 @@
-# Repo for My LeetCode Practice
+# Repo for LeetCode Practice
